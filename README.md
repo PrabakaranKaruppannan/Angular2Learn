@@ -1,5 +1,5 @@
 # Angular2Start
-
+I am developing this project using angular heroes tutorial. I used this project to learn Angular more detail.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
